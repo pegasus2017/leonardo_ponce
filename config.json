@@ -1,7 +1,7 @@
 {
-  "app_id": "com.kerygma.mobile",
-  "appname": "Kerygma Mobile",
-  "desktopappname": "Kerygma Desktop",
+  "app_id": "com.mayaclick.mobile",
+  "appname": "MayaClick Mobile",
+  "desktopappname": "MayaClick Desktop",
   "versioncode": 3820,
   "versionname": "3.8.2",
   "cache_update_frequency_usually": 420000,
@@ -63,14 +63,14 @@
     75.89,
     93.75
   ],
-  "customurlscheme": "Kerygma",
+  "customurlscheme": "MayaClick",
   "siteurl": [
     {
-      "name": "Kerygma Formación",
-      "url": "http://165.227.186.24/kerygma/"
+      "name": "MayaClick",
+      "url": "http://206.189.193.191/leonardoponce/"
     }
   ],
-  "sitename": "Kerygma",
+  "sitename": "UE Leonardo Ponce",
   "multisitesdisplay": "",
   "skipssoconfirmation": false,
   "forcedefaultlanguage": false,

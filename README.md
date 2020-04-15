@@ -1,2 +1,2 @@
-# Kerygma_clone
-app kerygma
+# MayaClick
+app MayaClick
